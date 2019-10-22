@@ -7,7 +7,7 @@ public class TestClass {
 			System.out.println("Hello World");
 			
 			System.out.println("Testing Eclipse - GitHub - Jenkins");
-			
+			System.out.println("Trial GitHub");
 	}
 	}
 
